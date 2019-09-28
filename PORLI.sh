@@ -8,7 +8,6 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #purple
 ku='\033[33;1m' #kuning
 
-clear
 echo
 echo $red"          Tool akan di install dalam waktu 3 detik"
 echo $red"             KEPOLISIAN REPUBLIK INDONESIA :v("
@@ -51,20 +50,18 @@ echo '''\a
 \033[35;1m                           |____/ '''
 sleep 1
 clear
-
-
 figlet HACKER | lolcat
 
-        echo " Selamat Datang Di Server Indonesia "
+echo " Selamat Datang Di Server Indonesia "
 sleep 2
 	
-	echo " Kamu Hanya Dapat Masuk 1 kali Dalam Setahun 
+echo " Kamu Hanya Dapat Masuk 1 kali Dalam Setahun 
 sleep 2
 					
-       echo " Ketika Kamu Memaksa Untuk Masuk Kamu akan Mendapat Resiko Yang Besar "
+echo " Ketika Kamu Memaksa Untuk Masuk Kamu akan Mendapat Resiko Yang Besar "
 sleep 2
 					
-      echo " Ini Adalah Alat Untuk Mencari Informasi Seputar Identitas Seseorang "					
+echo " Ini Adalah Alat Untuk Mencari Informasi Seputar Identitas Seseorang "					
 sleep 2
      
 echo " Jika Kamu di Di ketahui Kamu Akan DI Tangkap Oleh Kepolisian "
@@ -83,7 +80,6 @@ read Identitas
 echo " Silahkan Masukan Kata sandi Negara "
 read Kata
  
-clear
 echo
 echo $red"          Tool akan di install dalam waktu 3 detik"
 echo $red"            KEPOLISIAN REPUBLIK INDONESIA :v("
@@ -116,7 +112,7 @@ echo
 echo
 echo
 echo $red"         Tool akan di install dalam waktu 3 detik"
-echo $red"             KEPOLISIAN REPUBLIK INDONESIA :v"
+echo $red"             KEPOLISIAN REPUBLIK INDONESIA :v("
 sleep 1
 echo '''\a
 \033[35;1m                            _____
